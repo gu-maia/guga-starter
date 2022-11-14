@@ -1,5 +1,5 @@
-baseurl: ""
-url: ""
+baseurl: "/gugastarter"
+url: "https://itsmaia.github.io/guga-starter"
 remote_theme: itsmaia/guga
 title: Maia's corner
 author: Gustavo Maia
