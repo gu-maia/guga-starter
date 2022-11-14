@@ -1,6 +1,6 @@
 baseurl: ""
 url: ""
-theme: guga
+remote_theme: itsmaia/guga
 title: Maia's corner
 author: Gustavo Maia
 description: Airplanes doo fly
