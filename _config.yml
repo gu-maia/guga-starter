@@ -1,4 +1,4 @@
-baseurl: "guga-starter"
+baseurl: "/guga-starter"
 url: "https://itsmaia.github.io/"
 remote_theme: itsmaia/guga
 title: Maia's corner
