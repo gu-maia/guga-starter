@@ -1,0 +1,13 @@
+baseurl: ""
+url: ""
+theme: guga
+title: Maia's corner
+author: Gustavo Maia
+description: Airplanes doo fly
+
+guga:
+  avatar_url: https://placekitten.com/g/165/165
+
+  socials:
+    github: itsmaia # only username
+    twitter: itsmaia # only username
